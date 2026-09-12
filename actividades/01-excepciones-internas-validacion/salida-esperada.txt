@@ -1,0 +1,8 @@
+== EXPERIENCIA 1: EXCEPCIONES INTERNAS Y VALIDACION DE DATOS ==
+Cuenta creada: CuentaBancaria [numero=1001, titular=Carlos Perez, saldo=500.0]
+Error al crear cuenta: El saldo inicial no puede ser negativo.
+Despues de depositar 200: CuentaBancaria [numero=1001, titular=Carlos Perez, saldo=700.0]
+Error al depositar: El monto a depositar debe ser positivo.
+Despues de retirar 300: CuentaBancaria [numero=1001, titular=Carlos Perez, saldo=400.0]
+Error al retirar: Saldo insuficiente: disponible 400.0, solicitado 1000.0
+Error al retirar: El monto a retirar debe ser positivo.

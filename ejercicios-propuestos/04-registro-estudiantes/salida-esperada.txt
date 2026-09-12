@@ -1,0 +1,3 @@
+Estudiantes agregados correctamente.
+Estudiante encontrado: Ana
+Error al buscar estudiante: El estudiante no se encuentra en el registro

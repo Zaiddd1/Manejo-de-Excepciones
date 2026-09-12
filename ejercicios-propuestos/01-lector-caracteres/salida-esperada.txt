@@ -1,0 +1,20 @@
+Ingrese caracteres.
+Presione X para salir.
+
+a
+Excepcion de vocal: Se ingreso una vocal: a
+
+5
+Excepcion de numero: Se ingreso un numero: 5
+
+b
+Caracter ingresado: b
+
+[espacio]
+Excepcion de blanco: Se ingreso un espacio en blanco.
+
+e
+Excepcion de vocal: Se ingreso una vocal: e
+
+x
+Excepcion de salida: Se ingreso el caracter de salida.

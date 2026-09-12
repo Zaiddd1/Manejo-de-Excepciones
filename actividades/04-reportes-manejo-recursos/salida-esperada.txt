@@ -1,0 +1,10 @@
+== EXPERIENCIA 4: REPORTES DE TRANSACCIONES Y MANEJO DE RECURSOS ==
+Error al generar reporte: La cuenta 4001 no tiene transacciones registradas.
+Reporte generado en reporte-4002.txt
+Contenido del reporte:
+  numeroCuenta=4002
+  titular=Elena Ruiz
+  saldo=120.0
+  movimiento=Deposito de 50.0. Saldo resultante: 150.0
+  movimiento=Retiro de 30.0. Saldo resultante: 120.0
+Archivo no encontrado: reporte-inexistente.txt (El sistema no puede encontrar el archivo especificado)

@@ -1,0 +1,8 @@
+== EXPERIENCIA 2: EXCEPCIONES PERSONALIZADAS ==
+Transferencia exitosa.
+Origen: CuentaBancaria [numero=2001, titular=Luis Ramos, saldo=300.0, cerrada=false]
+Destino: CuentaBancaria [numero=2002, titular=Maria Lopez, saldo=300.0, cerrada=false]
+Error en la transferencia: La cuenta destino no existe.
+Error en la transferencia: Saldo insuficiente: disponible 300.0, solicitado 10000.0
+Error al cerrar cuenta: No se puede cerrar la cuenta: el saldo es 300.0, debe ser cero.
+Cuenta cerrada correctamente: CuentaBancaria [numero=2002, titular=Maria Lopez, saldo=0.0, cerrada=true]

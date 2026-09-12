@@ -1,0 +1,2 @@
+Valor: 25.5
+Error: El valor no puede ser negativo

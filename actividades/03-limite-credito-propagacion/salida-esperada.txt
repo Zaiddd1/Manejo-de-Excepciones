@@ -1,0 +1,5 @@
+== EXPERIENCIA 3: LIMITE DE CREDITO Y PROPAGACION ==
+Despues del primer retiro: CuentaCredito [numero=3001, titular=Rosa Diaz, saldo=50.0]
+Despues del segundo retiro (usa credito): CuentaCredito [numero=3001, titular=Rosa Diaz, saldo=-50.0]
+Error propagado hasta main: Se supero el limite de credito: disponible 250.0 (saldo -50.0 + limite 300.0), solicitado 1000.0
+Error propagado hasta main (transferencia): Se supero el limite de credito: disponible 250.0 (saldo -50.0 + limite 300.0), solicitado 1000.0

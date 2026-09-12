@@ -1,0 +1,23 @@
+# Compilados de Java
+*.class
+
+# Carpetas de salida de compilacion
+out/
+bin/
+target/
+build/
+
+# Archivos de reporte generados al ejecutar la Actividad 4
+reporte-*.txt
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema
+.DS_Store
+Thumbs.db

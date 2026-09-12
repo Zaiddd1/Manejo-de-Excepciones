@@ -1,0 +1,4 @@
+Suma: 15.0
+Resta: 5.0
+Multiplicacion: 50.0
+Error: No se puede dividir por cero
