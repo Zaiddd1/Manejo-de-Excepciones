@@ -25,13 +25,6 @@ dedicada al **manejo de excepciones**: `try`/`catch`/`finally`, la cláusula `th
 Cada carpeta es un **mini-programa independiente y ejecutable**, con su `salida-esperada.txt`
 junto al código. Todo se **compiló y ejecutó con JDK 21**.
 
-## 👥 Integrantes
-
-| Código | Apellidos y Nombres |
-|---|---|
-| 2025001659 | Del Carpio Aspilcueta, Farid Andree |
-| 2025002309 | Medina Llanquecha, Cesar Manuel |
-
 ---
 
 ## 🗂️ Estructura del repositorio
